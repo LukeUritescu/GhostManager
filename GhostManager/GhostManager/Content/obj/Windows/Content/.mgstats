@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Workspace/GameProg1/GhostManager/GhostManager/Content/Arial.spritefont","C:/Workspace/GameProg1/GhostManager/GhostManager/Content/bin/Windows/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21521,0.3730232
+"C:/Workspace/GameProg1/GhostManager/GhostManager/Content/PurpleGhost.png","C:/Workspace/GameProg1/GhostManager/GhostManager/Content/bin/Windows/Content/PurpleGhost.xnb","TextureProcessor","Texture2DContent",1368,11749,0.1257904
+"C:/Workspace/GameProg1/GhostManager/GhostManager/Content/RedGhost.png","C:/Workspace/GameProg1/GhostManager/GhostManager/Content/bin/Windows/Content/RedGhost.xnb","TextureProcessor","Texture2DContent",1741,11533,0.2030589
+"C:/Workspace/GameProg1/GhostManager/GhostManager/Content/SpriteFont1.spritefont","C:/Workspace/GameProg1/GhostManager/GhostManager/Content/bin/Windows/Content/SpriteFont1.xnb","FontDescriptionProcessor","SpriteFontContent",2496,939,0.2667635
